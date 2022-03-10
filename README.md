@@ -1,6 +1,9 @@
 # ToDo-List
 A simple yet classy ToDo list
-comand 
-npm install
+***
+command 
+
+***
+npm install<br>
 npm start
 
